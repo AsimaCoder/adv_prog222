@@ -1,0 +1,7 @@
+{"text":"привет","sender":"client"}
+{"text":"как дела","sender":"client"}
+{"text":"почему","sender":"client"}
+{"text":"ты вообще работаешь?","sender":"client"}
+{"text":"привет","sender":"client"}
+{"text":"пл","sender":"client"}
+{"text":"ка","sender":"client"}
